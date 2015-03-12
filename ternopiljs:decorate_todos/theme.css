@@ -1,0 +1,12 @@
+body {
+  background: url('meteor_bg.png') repeat !important;
+}
+
+#menu {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.js-title-nav {
+  background-color: #eee !important;
+  background-image: none !important;
+}
